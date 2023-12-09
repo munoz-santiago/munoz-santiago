@@ -38,7 +38,7 @@ jobs:
       - name: Build and Push Docker image
         run: |
           docker buildx create --use
-          docker buildx build --platform linux/amd64,linux/arm64 -t ghcr.io/${{ github.repository }}/munoz-santiago-frontend-app:latest --push .
+          docker buildx build -t ghcr.io/${{ github.repository }}/munoz-santiago-frontend-app:latest --push .
           docker buildx push ghcr.io/${{ github.repository }}/munoz-santiago-frontend-app:latest
 
   deploy:
