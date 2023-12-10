@@ -8,6 +8,9 @@ docker pull $DOCKER_IMAGE
 docker stop smunoz-santiago-frontend-app || true
 docker rm -f smunoz-santiago-frontend-app || true
 
+docker rmi ghcr.io/munoz-santiago/munoz-santiago-repo/munoz-santiago-frontend-app || true
+docker pull ghcr.io/munoz-santiago/munoz-santiago-repo/munoz-santiago-frontend-app
+
 # Run the Docker container on the droplet
 docker run -d --name smunoz-santiago-frontend-app -p 9001:80 \
     --network traefik_proxy \
