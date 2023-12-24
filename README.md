@@ -1,4 +1,4 @@
-# Hello, I'm [Santiago Muñoz](www.munoz-santiago.com) 👋
+# Hello, I'm [Santiago Muñoz](http://www.munoz-santiago.com) 👋
 
 I'm a passionate software developer with a focus on backend technologies, but I'm also experienced in front. Welcome to my GitHub profile!
 
@@ -19,4 +19,4 @@ I'm open to collaboration, discussing new ideas, or just having a chat about tec
 
 - **Email:** [personal.smunoz@gmail.com](mailto:personal.smunoz@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/munoz-santiago/](https://www.linkedin.com/in/munoz-santiago/)
-- **Portfolio/Website:** [munoz-santiago.com](www.munoz-santiago.com)
+- **Portfolio/Website:** [munoz-santiago.com](http://www.munoz-santiago.com)
