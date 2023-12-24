@@ -1,27 +1,22 @@
-# React + TypeScript + Vite
+# Hello, I'm [Santiago Muñoz](www.munoz-santiago.com) 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm a passionate software developer with a focus on backend technologies, but I'm also experienced in front. Welcome to my GitHub profile!
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I love crafting clean, efficient code and solving complex problems. With +7 of experience in Python, Nodejs, ReactJs, Kubernetes, DDD, Unit Testing. I'm enthusiastic about Tech, Finance and Fitness.
 
-## Expanding the ESLint configuration
+## Skills
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **Languages:** Python, Javascript, PHP, Java, Dart.
+- **Frameworks & Technologies:** ReactJs, BackboneJs, Flutter, ReactJs, Django, FastApi.
+- **Databases:** MongoDB, PostgreSQL, MySQL.
+- **Other Skills:** Domain Driven Design, Docker, Kubernetes, github and gitlab CI/CD, Unit Testing.
 
-- Configure the top-level `parserOptions` property like this:
+## Let's Connect!
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+I'm open to collaboration, discussing new ideas, or just having a chat about technology! You can reach me via:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- **Email:** [personal.smunoz@gmail.com](mailto:personal.smunoz@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/munoz-santiago/](https://www.linkedin.com/in/munoz-santiago/)
+- **Portfolio/Website:** [munoz-santiago.com](www.munoz-santiago.com)
