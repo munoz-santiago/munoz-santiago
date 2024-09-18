@@ -14,7 +14,7 @@ docker pull ghcr.io/munoz-santiago/munoz-santiago/munoz-santiago-frontend-app
 # Run the Docker container on the droplet
 docker run -d --name smunoz-santiago-frontend-app -p 9001:80 \
     --network traefik_proxy \
-    --label "traefik.http.routers.smunoz-santiago-frontend-app.rule=PathPrefix(\`/\`)" \
+    --label "traefik.http.routers.smunoz-santiago-frontend-app.rule=Host(\`munoz-santiago.com\`)" \
     --label "traefik.http.routers.smunoz-santiago-frontend-app.entrypoints=websecure" \
     --label "traefik.http.routers.smunoz-santiago-frontend-app.tls.certresolver=letsencrypt" \
     ghcr.io/munoz-santiago/munoz-santiago/munoz-santiago-frontend-app
